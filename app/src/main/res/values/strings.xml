@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notebook22</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_example">Title</string>
+    <string name="tv_date_or_time_example">18:09:2022</string>
+    <string name="description_example">Description</string>
+    <string name="delete_menu">delete</string>
+</resources>
